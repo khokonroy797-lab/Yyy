@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek dark-themed calculator with stealth vault features, secret PIN setup, photo/video/doc lockers, and developer profile settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
